@@ -1,4 +1,4 @@
-#PRIME Scripting Guide.
+# PRIME Scripting Guide.
 
 ***
 `system.display(*);` [*: Str/Numeral/Var] Displays * into console.
