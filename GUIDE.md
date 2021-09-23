@@ -8,18 +8,18 @@
 
 `system.color(*);` [*: Str "Colorcode"/Var] Changes console output color to * (Batch colorcode)
 
-0 = Black       8 = Gray
+0 = Black,       8 = Gray
 
-1 = Blue        9 = Light Blue
+1 = Blue,        9 = Light Blue
 
-2 = Green       A = Light Green
+2 = Green,       A = Light Green
 
-3 = Aqua        B = Light Aqua
+3 = Aqua,        B = Light Aqua
 
-4 = Red         C = Light Red
+4 = Red,         C = Light Red
 
-5 = Purple      D = Light Purple
+5 = Purple,      D = Light Purple
 
-6 = Yellow      E = Light Yellow
+6 = Yellow,      E = Light Yellow
 
-7 = White       F = Bright White
+7 = White,       F = Bright White
