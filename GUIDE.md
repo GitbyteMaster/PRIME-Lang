@@ -1,6 +1,10 @@
 # PRIME Scripting Guide.
 
 ***
+
+Function
+
+
 `system.display(*);` [*: Str/Numeral/Var] Displays * into console.
 
 `system.input(*);` [*: Str/Numeral/Var] Prompts * into console, and stores user input.
