@@ -2,3 +2,13 @@
 
 ## PRIME Programming Language
 Prime is a Python-based programming language built for Windows 7 and higher. It is lightweight and executes quickly. To get Prime fully functioning, you must [download](https://www.python.org/downloads/) the latest Python version.
+
+```
+//Example [DO NOT USE]
+
+array names = ["Tom", "Sara"];
+system.input("");
+itm(>system.input);
+system.display("The names are:");
+system.display(names);
+```
