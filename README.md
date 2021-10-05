@@ -10,5 +10,5 @@ array names = ["Tom", "Sara"];
 system.input("");
 itm(>system.input);
 system.display("The names are:");
-system.display(names);
+system.display(>names);
 ```
