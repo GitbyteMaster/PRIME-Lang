@@ -6,7 +6,10 @@ Prime is a Python-based programming language built for Windows 7 and higher. It 
 ```
 //Example [DO NOT USE]
 
-array names = ["Tom", "Sara"];
+arr names {
+"Tom"
+"Sara"
+};
 system.input("");
 itm(>system.input);
 system.display("The names are:");
