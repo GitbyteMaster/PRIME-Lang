@@ -18,3 +18,5 @@ system.display("The names are:");
 system.display(>names);
 ```
 If you wish to learn how to use PRIME, enter the [PRIME Documentation (Wiki).](https://github.com/GitbyteMaster/PRIME-Lang/wiki)
+
+[Download PRIME.](https://github.com/GitbyteMaster/PRIME-Lang/raw/main/PRIME.zip)
