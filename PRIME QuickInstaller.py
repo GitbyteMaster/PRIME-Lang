@@ -10,7 +10,7 @@ if download == "Y":
     up = "@echo off\necho Opening..\nstart Prime.py"
     for line in up:
           os.system(f"echo {line} > C:/Users/{getpass.getuser()}/Desktop/PRIME/Prime [Warp].bat")
-print("Downloading Prime.py [5.112 KB]
+print("Downloading Prime.py [5.112 KB]")
 up = """
 import getpass
 import os
