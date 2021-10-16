@@ -25,6 +25,13 @@ import system
 
 system.file.direct("C://Users/user/Desktop/Newfile/newfile.prime");
 ```
+& PRIME variable syntax is just as easy to learn.
+```
+import system
+
+var val = ("Hello World!");
+system.display(>val);
+```
 If you wish to learn how to use PRIME, enter the [PRIME Documentation (Wiki).](https://github.com/GitbyteMaster/PRIME-Lang/wiki)
 
 Download PRIME [here.](https://github.com/GitbyteMaster/PRIME-Lang/raw/main/PRIME.zip)
