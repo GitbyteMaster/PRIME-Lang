@@ -18,10 +18,18 @@ itm(>system.input);
 system.display("The names are:");
 system.display(>names);
 ```
+
+Using PRIME, there are common functions, like text and variables. But now, there are built-in functions for things like opening other files like itself.
+```
+import system
+
+system.file.direct("C://Users/user/Desktop/Newfile/newfile.prime");
+```
 If you wish to learn how to use PRIME, enter the [PRIME Documentation (Wiki).](https://github.com/GitbyteMaster/PRIME-Lang/wiki)
 
 Download PRIME [here.](https://github.com/GitbyteMaster/PRIME-Lang/raw/main/PRIME.zip)
 
-===============================================================================
+
+===================================================================
 
 ©Gitbyte Masters/Gigabyte Masters [G_bite_Masters]/ZONE Studios 2021 All Rights Reserved.
