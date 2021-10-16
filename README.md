@@ -22,6 +22,6 @@ If you wish to learn how to use PRIME, enter the [PRIME Documentation (Wiki).](h
 
 Download PRIME [here.](https://github.com/GitbyteMaster/PRIME-Lang/raw/main/PRIME.zip)
 
-========================================================================================
+===============================================================================
 
 ©Gitbyte Masters/Gigabyte Masters [G_bite_Masters]/ZONE Studios 2021 All Rights Reserved.
