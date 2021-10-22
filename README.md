@@ -14,7 +14,11 @@ arr names {
 "Sara"
 };
 system.input("");
-itm(>system.input);
+arr names {
+"Tom"
+"Sara"
+>system.input
+};
 system.display("The names are:");
 system.display(>names);
 ```
