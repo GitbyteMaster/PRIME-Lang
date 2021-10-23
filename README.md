@@ -6,7 +6,7 @@ Prime is a Python-based programming language built for Windows 7 and higher. It 
 
 A normal PRIME script will look like this.
 ```
-//Example [DO NOT USE]
+//Example
 import system
 
 arr names {
