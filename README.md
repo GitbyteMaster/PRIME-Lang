@@ -36,6 +36,9 @@ import system
 var val = ("Hello World!");
 system.display(>val);
 ```
+
+PRIMECore, a `.prime` file editor and cleaner is coming soon.
+
 If you wish to learn how to use PRIME, enter the [PRIME Documentation (Wiki).](https://github.com/GitbyteMaster/PRIME-Lang/wiki)
 
 Download PRIME [here.](https://github.com/GitbyteMaster/PRIME-Lang/raw/main/PRIME.zip)
