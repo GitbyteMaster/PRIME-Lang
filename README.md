@@ -44,7 +44,7 @@ If you wish to learn how to use PRIME, enter the [PRIME Documentation (Wiki).](h
 ## PRIME Download(s)
 Prime (Windows 10+): [Download](https://github.com/GitbyteMaster/PRIME-Lang/raw/main/PRIME.zip)
 
-Prime (Macintosh): [v1.0 Coming Soon.]
+Prime (Macintosh): [Build0.0.1 Coming Soon.]
 
 ===================================================================
 
