@@ -41,8 +41,10 @@ PRIMECore, a `.prime` file editor and cleaner is coming soon.
 
 If you wish to learn how to use PRIME, enter the [PRIME Documentation (Wiki).](https://github.com/GitbyteMaster/PRIME-Lang/wiki)
 
-Download PRIME [here.](https://github.com/GitbyteMaster/PRIME-Lang/raw/main/PRIME.zip)
+## PRIME Download(s)
+Prime (Windows 10+): [Download](https://github.com/GitbyteMaster/PRIME-Lang/raw/main/PRIME.zip)
 
+Prime (Macintosh): [v1.0 Coming Soon.]
 
 ===================================================================
 
